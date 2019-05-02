@@ -8,15 +8,15 @@ import Wallpaper from './Wallpaper';
 export default class View extends Component {
     render() {
       return (
+          <Wallpaper>
+              <App/>
+              <Select/>
+              <UserInput/>
+          </Wallpaper>
+          );
+      }
+  }
         
-        <Wallpaper>
-            <App/>
-            <Select/>
-            <UserInput/>
-        </Wallpaper>
-        );
-    }
-}
          
           
         

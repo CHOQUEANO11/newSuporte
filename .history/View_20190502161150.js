@@ -14,10 +14,10 @@ export default class View extends Component {
             <Select/>
             <UserInput/>
         </Wallpaper>
+         
         );
     }
 }
-         
           
         
     

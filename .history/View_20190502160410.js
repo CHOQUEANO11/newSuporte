@@ -10,14 +10,14 @@ export default class View extends Component {
       return (
         
         <Wallpaper>
-            <App/>
-            <Select/>
-            <UserInput/>
-        </Wallpaper>
+            <App />
+            <Select />
+            <UserInput />
+        </Wallpaper> 
+         
         );
     }
 }
-         
           
         
     

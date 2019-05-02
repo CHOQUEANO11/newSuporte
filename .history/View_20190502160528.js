@@ -9,15 +9,15 @@ export default class View extends Component {
     render() {
       return (
         
-        <Wallpaper>
-            <App/>
-            <Select/>
-            <UserInput/>
-        </Wallpaper>
+        <View>
+            <App />
+            <Select />
+            <UserInput />
+        </View>  
+         
         );
     }
 }
-         
           
         
     
